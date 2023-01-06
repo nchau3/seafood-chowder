@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(255, 252, 227);
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+li {
+  padding: .35em 0;
+}
